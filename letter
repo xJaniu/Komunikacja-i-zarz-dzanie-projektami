@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes" ?>
+<letter>
+<month>February</month> <day>3</day><year>2003</year>
+<address>
+<company>American Library Association</company>
+	<street>Huron Street</street> <house_number>15</house_number> 
+	<city>Chicago</city><zip>IL 12304</zip> 
+	</address>
+
+
+<heading>To Whom It May Concern:</heading>
+<paragraph>It has come to my attention that the Association no longer wants to spend money on posters of famous people advocating reading. What is wrong with you guys! Don't you know that reading is FUNdamental? These posters really get me and my patrons going. I thought they were great.
+
+Please consider re-instating the posters.</paragraph>
+<ending>Sincerely, <name>B. Ig Reeder</name></ending>
+</letter>

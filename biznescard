@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes" ?>
+<BusinessCard>
+	<name> Piotr Hlawacz</name>
+	<phone type="mobile"> 600275062</phone>
+	<phone type="home"> 123456789</phone>
+	<email> piotrehlawacz@gmail.com</email>
+	<address>
+	<street>Ul.Matejki</street> <house_number>7</house_number> 
+	<zip>32-090</zip> <city>Słomniki</city>
+	</address>
+<position>Student</position>
+<company_name>UP&amp;kraków &#174;</company_name>
+
+
+
+
+</BusinessCard>

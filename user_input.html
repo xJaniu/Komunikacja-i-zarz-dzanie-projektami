@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>user input</title>
+<script>
+function say_hello()
+{
+var user=document.getElementById("user_name").value;
+var res=document.getElementById("result");
+res.innerHTML="Hello "+user;
+}
+
+</script>
+</head>
+<body>
+Write your name, please: <input type="text" id="user_name"/><br>
+<button onClick="say_hello()">Say hello</button><br><br>
+
+<p id="result"></p>
+
+</body>
+</html>
