@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes" ?>
+<hotels>
+	<hotel>
+<name>Les Jardins du Marais</name>
+<stars>3</stars>
+<Facilities>Internet</Facilities>
+<Address>747 rue Amelot, Paris, 75011</Address>
+<Distance>2</Distance>
+<Available>True</Available>
+</hotel>
+<hotel>
+<name>Golden Tulip Litte Palace</name>
+<stars>4</stars>
+<Facilities>Internet, Gym, Parking, Restaurant</Facilities>
+<Address>4 rue Salomon De Caus, Paris, 75003</Address>
+<Distance>0.1</Distance>
+<Available>False</Available>
+</hotel>
+
+
+<hotel>
+<name>Tilsitt Etoile</name>
+<stars>2</stars>
+<Facilities>Restaurant</Facilities>
+<Address>23 rue Brey, Paris, 75017</Address>
+<Distance>3</Distance>
+<Available>False</Available>
+</hotel>
+</hotels>

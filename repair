@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes" ?>
+<calosc>
+<name>Oyster Soup</name>
+<author>Eric Lease Morgan</author>
+<copyright holder ="Eric Lease Morgan">&amp;copy 2003</copyright>
+<ingredients>
+<list>
+<item1>1 stalk of celery</item1>
+<item2>1 onion</item2>
+<item3>2 tablespoons of butter</item3>
+<item4>2 cups of oysters and their liquor</item4>
+<item5>2 cups of half &amp; half</item5>
+</list>
+</ingredients>
+<process>
+<p>Begin by sauteing the celery and onions in butter until soft.
+Add oysters, oyster liquor, and cream. Heat until the oysters float.
+Serve in warm bowls.</p>
+<p><i>Yummy!</i></p>
+</process>
+</calosc>
